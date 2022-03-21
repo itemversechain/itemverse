@@ -36,3 +36,20 @@ URL : http://downloadglobal.andromedagames.net/androweb/amg/amg\_pool.mp4](.gitb
 ![도깨비(채굴)
 URL : http://downloadglobal.andromedagames.net/androweb/amg/dokebi.mp4](.gitbook/assets/도깨비2.png)
 
+
+
+### DAO 제안과 투표를 통한 향후 게임 추가   &#x20;
+
+
+
+### SDK 제공
+
+ITEM (ITEMVERSE Platform Token)과 / 도깨비 파워를 사용 할 수 있는 SDK 제공하여  DAO 통한 외부 게임 연동 허용      &#x20;
+
+
+
+### 2개의 토큰 이코 노미 &#x20;
+
+* ITEM: 메인 토큰으로 GameFi 직접 투자 및 NFT 구매/거래용, 최대 50억개 발행 예정
+* DKP: In-game 토큰으로 게임내에서 획득하여 사용할 수 있는 발행량 무제한의 P2E 전용 토큰이며, 직접 또는 제작, 교배 등을 통해 NFT화 되어 ITEM으로 교환
+
