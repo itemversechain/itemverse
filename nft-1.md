@@ -20,7 +20,27 @@ Wallet에서 관리하는 NFT는 Market에서 사고 팔 수 있는 재화의 �
 
 
 
+![\<NFT 하드월렛 & 플레이어 뷰어 목업>](.gitbook/assets/하드월렛목업.png)
 
+
+
+### 스펙
+
+1. OLED Display 4.97"\
+   \- 1280 X 720 Real R.G.B\
+   \- 16.7M Color\
+   \- Touch panel\
+   \- 120 X 70 X 3.1mm\
+
+2. Main Control\
+   \- 동영상및사진 재생기능    \
+   \- 지문인식\
+   \- 암호화 칩\
+   \- Wifi 2.4Ghz, 5Ghz 및 Bluetooth 4.2\
+   \- USB 2.0\
+   \- 밧데리 내장
+
+* 위 설계 및 스펙등은 개발 상황에 따라  다를 수 있습니다.         &#x20;
 
 
 
