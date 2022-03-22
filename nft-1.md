@@ -44,3 +44,10 @@ Wallet에서 관리하는 NFT는 Market에서 사고 팔 수 있는 재화의 �
 
 
 
+### Software Wallet
+
+![](.gitbook/assets/월렛\_01.png)
+
+![](.gitbook/assets/월렛\_02.png)
+
+![](.gitbook/assets/월렛\_03.png)
