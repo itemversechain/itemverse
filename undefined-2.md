@@ -1,14 +1,4 @@
-# NFT 하드월렛 플레이어 뷰어
-
-### 차세대 차세대 휴대용 NFT 하드월렛 플레이어 & 뷰어
-
-Wallet에서 관리하는 NFT는 Market에서 사고 팔 수 있는 재화의 형태로 보관된다. 일종의 게임 내 Inventory 기능을 담당하는 구조로 생각하면 쉽다. NFT 관리 페이지의 구성은 다음과 같다.
-
-
-
-![](.gitbook/assets/하드월렛\_레이어\_도식.jpg)
-
-
+# ■ 아이템채굴기
 
 ### 개요
 
@@ -51,3 +41,4 @@ Wallet에서 관리하는 NFT는 Market에서 사고 팔 수 있는 재화의 �
 ![](.gitbook/assets/월렛\_02.png)
 
 ![](.gitbook/assets/월렛\_03.png)
+
