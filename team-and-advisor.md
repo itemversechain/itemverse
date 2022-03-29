@@ -1,4 +1,4 @@
-# Team & Advisor
+# ■ Team & Advisor
 
 ## Team
 
@@ -6,3 +6,4 @@
 
 ### Advisor
 
+![](.gitbook/assets/ad\_01.png)

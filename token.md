@@ -1,4 +1,4 @@
-# Token
+# ■ Token
 
 ### ITEM (ITEMVERSE Platform Token)
 
@@ -28,7 +28,7 @@
 
 ### ITEM 예상 발행 수량 및 스케줄  &#x20;
 
-![](.gitbook/assets/토큰발행량.png)
+![](.gitbook/assets/t\_table.png)
 
 ### DKP (Dokkabie Powder, 도깨비 가루)
 
