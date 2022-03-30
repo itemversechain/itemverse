@@ -10,6 +10,16 @@
 
 **데모영상:  삼국지카르마**
 
+****
+
+```
+<video width="100%" height="100%" controls="controls">
+  <source src="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" type="video/mp4">
+</video>
+```
+
+{% embed url="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" %}
+
 {% embed url="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" %}
 
 ![](<../.gitbook/assets/image (8).png>)
