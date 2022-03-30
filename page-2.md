@@ -39,7 +39,7 @@ URL : http://downloadglobal.andromedagames.net/androweb/amg/amg\_pool.mp4](.gitb
 
 ### SDK 제공
 
-ITEM (ITEMVERSE Platform Token)과 / KARMA(삼국지 카르마 리버In-game 토큰) / CHALK(당구의 를 사용 할 수 있는 SDK 제공하여  DAO 통한 외부 게임 연동 허용      &#x20;
+ITEM (ITEMVERSE Platform Token)과 / KARMA(삼국지 카르마 리버스 In-game 토큰) / CHALK(당구의 신리버스 In-game 토큰)를 사용 할 수 있는 SDK 제공하여  DAO 통한 외부 게임 연동 허용      &#x20;
 
 
 
