@@ -1,4 +1,4 @@
-# ■ P2E
+# ■ 아이템 버스의 게임
 
 ## 삼국지 카르마 리버스
 
@@ -16,7 +16,7 @@
 
 {% embed url="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" %}
 
-![](.gitbook/assets/삼국지.png)
+![](../.gitbook/assets/삼국지.png)
 
 &#x20;  &#x20;
 
@@ -38,7 +38,7 @@ e-Sports를 위한 다양한 기능 탑재 : 토너먼트, 관전, 베팅 등
 
 
 
-![](.gitbook/assets/당구의신.png)
+![](../.gitbook/assets/당구의신.png)
 
 
 

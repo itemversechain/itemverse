@@ -1,4 +1,4 @@
-# NFT Market
+# ■ NFT Market
 
 ## ItemVerse NFT Market
 
@@ -19,5 +19,5 @@ Block data 및 Transaction data는 통계를 위한 정보로 활용된다. 투�
 
 
 
-![\<ItemVerse NFT Market 예>](.gitbook/assets/NFT마켓.png)
+![\<ItemVerse NFT Market 예>](../.gitbook/assets/NFT마켓.png)
 
