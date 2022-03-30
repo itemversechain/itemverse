@@ -8,13 +8,13 @@
 
 
 
-#### NFT 아이템에 대한 AMG, DKP 사용 용도
+#### NFT 아이템에 대한 ITEM, KARMA/CHALK 사용 용도
 
 &#x20;\- ITEM을 이용하여 구매 및 거래 가능
 
-&#x20;\- ITEM + DKP을 이용하여 제작, 교배, 합성, 진화
+&#x20;\- ITEM + KARMA/CHALK을 이용하여 제작, 합성, 진화
 
-&#x20;\- DKP를 이용하여 강화 및 레벨업
+&#x20;\- KARMA/CHALK를 이용하여 강화 및 레벨업
 
 
 
