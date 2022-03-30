@@ -31,9 +31,6 @@ URL : http://downloadglobal.andromedagames.net/androweb/amg/amg\_pool.mp4](.gitb
 
 
 
-![도깨비(채굴)
-URL : http://downloadglobal.andromedagames.net/androweb/amg/dokebi.mp4](.gitbook/assets/도깨비2.png)
-
 
 
 ### DAO 제안과 투표를 통한 향후 게임 추가   &#x20;
