@@ -60,5 +60,5 @@ ITEM (ITEMVERSE Platform Token)과 / KARMA(삼국지 카르마 리버스 In-game
 ### 쉬운 사용을 위한 자체 거래 플랫폼 및 Wallet 제공
 
 * NFT 거래용 자체 플랫폼 제공
-* ITEM, DKP, NFT, 게임 계정 등을 통합하여 쉽게 관리할 수 있는 개인별 지갑 제공
+* ITEM, KARMA/CHALK, NFT, 게임 계정 등을 통합하여 쉽게 관리할 수 있는 개인별 지갑 제공
 
