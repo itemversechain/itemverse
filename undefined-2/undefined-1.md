@@ -14,6 +14,6 @@
 
 {% embed url="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" %}
 
-![](../.gitbook/assets/삼국지.png)
+![](<../.gitbook/assets/image (8).png>)
 
-&#x20;  &#x20;
+![](<../.gitbook/assets/image (12).png>)

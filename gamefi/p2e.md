@@ -22,7 +22,7 @@
 
 &#x20;
 
-![메사리ㅣ게 ](<../.gitbook/assets/image (7).png>)
+![메사리ㅣ게 ](<../.gitbook/assets/image (7) (1).png>)
 
 ![텍스트이(가) 표시된 사진
 

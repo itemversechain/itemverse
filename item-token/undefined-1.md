@@ -16,4 +16,4 @@ Staking/Yield Farming: 첫 게임 런칭 후 3년간 매월 순차적으로 언�
 
 세일 물량의 1년 동안의 언락 스케줄은 다음과 같습니다.     &#x20;
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
