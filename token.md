@@ -30,7 +30,7 @@
 
 ![](.gitbook/assets/t\_table.png)
 
-### DKP (Dokkabie Powder, 도깨비 가루)
+### KARMA & CHALK (KARMA: 삼국지 카르마 리버스용, CHALK: 당구의 신 리버스용)
 
 * **목적:**&#x20;
 
