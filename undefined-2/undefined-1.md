@@ -8,17 +8,9 @@
 
 **NFT:** 펫(군마), 장비(무기 및 방어구), 합성으로 신규 NFT 생성
 
+
+
 **데모영상:  삼국지카르마**
-
-****
-
-```
-<video width="100%" height="100%" controls="controls">
-  <source src="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" type="video/mp4">
-</video>
-```
-
-{% embed url="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" %}
 
 {% embed url="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" %}
 
