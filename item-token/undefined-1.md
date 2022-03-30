@@ -17,7 +17,7 @@
 
 * **체인:**&#x20;
 
-&#x20;      ㅖPPolygonvv
+&#x20;      Polygon
 
 
 
