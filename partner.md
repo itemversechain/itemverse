@@ -2,7 +2,7 @@
 
 ## Partner
 
-### 디지털콘텐츠 협단
+### 디지털콘텐츠 협단체
 
 ![](.gitbook/assets/Partner\_00.png)
 
