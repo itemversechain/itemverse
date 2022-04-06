@@ -18,3 +18,4 @@
   * [NFT Market](nft-market.md)
 * [■ 아이템채굴기](undefined-2.md)
 * [■ Team & Advisor](team-and-advisor.md)
+* [■ Partner](partner.md)
