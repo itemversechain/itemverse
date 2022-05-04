@@ -14,7 +14,7 @@
 * [■ 아이템 버스의 게임](p2e.md)
   * [당구의 신](undefined-2/undefined.md)
   * [삼국지 카르마](undefined-2/undefined-1.md)
-  * [NFT](nft.md)
+  * [NFT](<nft (1).md>)
   * [NFT Market](nft-market.md)
 * [■ 휴대용 채굴기(NFT, 아이템, 코인 등)](nft.md)
 * [■ Team & Advisor](team-and-advisor.md)
