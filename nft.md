@@ -12,9 +12,9 @@
 
 
 
-![\<NFT 하드월렛 & 플레이어 뷰어 목업>](.gitbook/assets/하드월렛목업.png)
+![](.gitbook/assets/spec.jpg)
 
-
+###
 
 ### 2. 스펙
 
