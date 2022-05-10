@@ -32,4 +32,4 @@
 
 ### NFT와 FT의 상관 관계
 
-![](.gitbook/assets/AMGCoinDiagram.jpg)
+![](../.gitbook/assets/AMGCoinDiagram.jpg)
