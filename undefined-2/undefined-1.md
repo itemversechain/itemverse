@@ -10,7 +10,7 @@
 
 
 
-**데모영상:  삼국지카르마**
+**데모영상:  삼국지 카르마**
 
 {% embed url="http://downloadglobal.andromedagames.net/androweb/amg/karma.mp4" %}
 
