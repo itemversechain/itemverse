@@ -39,14 +39,14 @@ URL : http://downloadglobal.andromedagames.net/androweb/amg/amg\_pool.mp4](.gitb
 
 ### SDK 제공
 
-ITEM (ITEMVERSE Platform Token)과 / KARMA(삼국지 카르마 리버스 In-game 토큰) / CHALK(당구의 신 리버스 In-game 토큰)를 사용할 수 있는 SDK를 제공하여  DAO를 통한 외부 게임 연동 허용      &#x20;
+ITEM (ITEMVERSE Platform Token)과 / KARMA(삼국지 카르마 리버스 In-game 토큰) / CHALK(당구의 신 리버스 In-game 토큰)를 사용 할 수 있는 SDK 제공하여  DAO 통한 외부 게임 연동 허용      &#x20;
 
 
 
-### 투트랙 토큰 이코노미 &#x20;
+### 투트랙 토큰 이코 노미 &#x20;
 
 * ITEM: 메인 토큰으로 GameFi 직접 투자 및 NFT 구매/거래용, 최대 50억개 발행 예정
-* KARMA/CHALK: In-game 토큰으로 게임내에서 획득하여 사용할 수 있는 발행량 무제한의 P2E 전용 토큰이며, 직접 또는 제작, 합성 등을 통해 NFT화 하여 ITEM으로 교환
+* KARMA/CHALK: In-game 토큰으로 게임내에서 획득하여 사용할 수 있는 발행량 무제한의 P2E 전용 토큰이며, 직접 또는 제작, 합성 등을 통해 NFT화 되어 ITEM으로 교환
 
 
 
