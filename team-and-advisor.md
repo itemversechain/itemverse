@@ -142,6 +142,12 @@
 
 
 
+![](.gitbook/assets/Advisor\_Jungjupil\_01.png)
+
+* 현) 블록체인투데이 매거진 발행인
+* 현) 한국핀테크학회 이사
+* 전) 삼성전자 경영혁신팀
+
 #### Advisor
 
 \
